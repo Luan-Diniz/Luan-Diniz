@@ -1,4 +1,4 @@
-🎶
+
 <div>
   <a href="https://github.com/Luan-Diniz">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Luan-Diniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
